@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b485f13c1ee57b7438de31c708ab4ab9, type: 3}
+  m_Name: player_progression
+  m_EditorClassIdentifier: 
+  _coins: {fileID: 11400000, guid: 2778d38aea57c1246912b3f260b089d6, type: 2}
+  _skillPointsCommon: {fileID: 11400000, guid: 50c2caf7cc411f64ab55e73c2ec94092, type: 2}
+  _skillPointsRare: {fileID: 11400000, guid: 3deb02d803e1b0c44af7772e85a3f598, type: 2}
+  _skillPointsEpic: {fileID: 11400000, guid: ba3591b88382a9e4396ccaf82e48383e, type: 2}
+  _shards: {fileID: 11400000, guid: 294d02031804f50489c780e94e6263ad, type: 2}
+  _fragmentsMemory: {fileID: 11400000, guid: 1c57b69174f4ba34b95c0c29393afc15, type: 2}
+  _fragmentsLevel: {fileID: 11400000, guid: 079c88422a68dac48b7860b9cff6c5ad, type: 2}
+  _fragmentsSkill: {fileID: 11400000, guid: 6543011059ea07f45b4387fab2dc0fa5, type: 2}
+  _resistanceIce: {fileID: 11400000, guid: 31cb3b4739963af4fb89db9883fab1df, type: 2}
+  _resistanceFire: {fileID: 11400000, guid: d7ed1e7bd7a3a18429511bc86645d5d5, type: 2}
+  _resistancePoison: {fileID: 11400000, guid: ddf4a70adba61bf49aaca75c876035ed, type: 2}
+  _resistanceBleed: {fileID: 11400000, guid: 8770ac6a9d91a4c45bbd5efa9d71fb1a, type: 2}
+  _resistanceRadiation: {fileID: 11400000, guid: f1ac91e116eed5f43b973c6d98637eaf, type: 2}
+  _resistanceCorrosion: {fileID: 11400000, guid: f78c8dde5cb61544dac3afe67bc4330d, type: 2}
+  _resistanceCursePurple: {fileID: 11400000, guid: dd0ea0dafdb3c894da69b00c64ffa9c0, type: 2}
+  _resistanceCurseGreen: {fileID: 11400000, guid: 84177783bb7640346bf0cdfce682661b, type: 2}

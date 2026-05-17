@@ -1,0 +1,1391 @@
+fileFormatVersion: 2
+guid: 645068d726750a7418a641e6c0bd9832
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2049139439321438920
+    second: WIP Icons_0
+  - first:
+      213: -1515931380082931008
+    second: WIP Icons_1
+  - first:
+      213: -7882148682529903490
+    second: WIP Icons_2
+  - first:
+      213: -4388826531872623197
+    second: WIP Icons_3
+  - first:
+      213: 115263304662079428
+    second: WIP Icons_4
+  - first:
+      213: 3182939544964421782
+    second: WIP Icons_5
+  - first:
+      213: -7408645539227910943
+    second: WIP Icons_6
+  - first:
+      213: 319276779585854855
+    second: WIP Icons_7
+  - first:
+      213: 291399048829145822
+    second: WIP Icons_8
+  - first:
+      213: 67497154198649352
+    second: WIP Icons_9
+  - first:
+      213: -207293231278734387
+    second: WIP Icons_10
+  - first:
+      213: 6964734072788323864
+    second: WIP Icons_11
+  - first:
+      213: 2193402002557490893
+    second: WIP Icons_12
+  - first:
+      213: 2960635745032602559
+    second: WIP Icons_13
+  - first:
+      213: 9162574354063154892
+    second: WIP Icons_14
+  - first:
+      213: -2507928279567395727
+    second: WIP Icons_15
+  - first:
+      213: -7211789241312812467
+    second: WIP Icons_16
+  - first:
+      213: -1153373728184868978
+    second: WIP Icons_17
+  - first:
+      213: -2494176392039885705
+    second: WIP Icons_18
+  - first:
+      213: 1731207286966428675
+    second: WIP Icons_19
+  - first:
+      213: 4653766188248556642
+    second: WIP Icons_20
+  - first:
+      213: 5081495934212863699
+    second: WIP Icons_21
+  - first:
+      213: -2258178967183980043
+    second: WIP Icons_22
+  - first:
+      213: -923057269604860114
+    second: WIP Icons_23
+  - first:
+      213: 4963127198580702389
+    second: WIP Icons_24
+  - first:
+      213: -5012550339392083834
+    second: WIP Icons_25
+  - first:
+      213: -5707390966102561067
+    second: WIP Icons_26
+  - first:
+      213: 7324170968585041700
+    second: WIP Icons_27
+  - first:
+      213: -6584212494667687217
+    second: WIP Icons_28
+  - first:
+      213: 6333982922054781028
+    second: WIP Icons_29
+  - first:
+      213: -714809217611956852
+    second: WIP Icons_30
+  - first:
+      213: 3443236599417309277
+    second: WIP Icons_31
+  - first:
+      213: 8361239287528188631
+    second: WIP Icons_32
+  - first:
+      213: -6357565842164597849
+    second: WIP Icons_33
+  - first:
+      213: 5663653714963671892
+    second: WIP Icons_34
+  - first:
+      213: 1401276409510224890
+    second: WIP Icons_35
+  - first:
+      213: -8611792739855802497
+    second: WIP Icons_36
+  - first:
+      213: -2578105934959842020
+    second: WIP Icons_37
+  - first:
+      213: 3612505024591469756
+    second: WIP Icons_38
+  - first:
+      213: 3025177507854452294
+    second: WIP Icons_39
+  - first:
+      213: -8771545488318013430
+    second: WIP Icons_40
+  - first:
+      213: 8141897328929129037
+    second: WIP Icons_41
+  - first:
+      213: -6526981576813016374
+    second: WIP Icons_42
+  - first:
+      213: -5497015572531242021
+    second: WIP Icons_43
+  - first:
+      213: -3528384082130708735
+    second: WIP Icons_44
+  - first:
+      213: -1681237071715129244
+    second: WIP Icons_45
+  - first:
+      213: -642351257519030544
+    second: WIP Icons_46
+  - first:
+      213: 5735694443713234671
+    second: WIP Icons_47
+  - first:
+      213: 2126704742357814976
+    second: WIP Icons_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WIP Icons_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2564
+        width: 122
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca5ff79671007c10800000000000000
+      internalID: 2049139439321438920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2527
+        width: 162
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca0a4a017456fae0800000000000000
+      internalID: -1515931380082931008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2312
+        width: 137
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cedfed88bfc9290800000000000000
+      internalID: -7882148682529903490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2420
+        width: 209
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a53ce2b581c713c0800000000000000
+      internalID: -4388826531872623197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_4
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2336
+        width: 124
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7550a6d5f799100800000000000000
+      internalID: 115263304662079428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_5
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 2370
+        width: 101
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698d527f6a21c2c20800000000000000
+      internalID: 3182939544964421782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_6
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2142
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecb98f72243f2990800000000000000
+      internalID: -7408645539227910943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2091
+        width: 43
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78dde381a8c4e6400800000000000000
+      internalID: 319276779585854855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_8
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2142
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2195914e14b0400800000000000000
+      internalID: 291399048829145822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_9
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 2048
+        width: 144
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a3c5bdd4ccfe000800000000000000
+      internalID: 67497154198649352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_10
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 2139
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3c94987eb8f1df0800000000000000
+      internalID: -207293231278734387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_11
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 2139
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e8b9b0db4b7a060800000000000000
+      internalID: 6964734072788323864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_12
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 2106
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6d11c0087807e10800000000000000
+      internalID: 2193402002557490893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_13
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 2142
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb30ef3268a461920800000000000000
+      internalID: 2960635745032602559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_14
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 2114
+        width: 115
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cced90264d0082f70800000000000000
+      internalID: 9162574354063154892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_15
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 2075
+        width: 204
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1749a3e648c023dd0800000000000000
+      internalID: -2507928279567395727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_16
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 2111
+        width: 118
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42e09c05e39aeb90800000000000000
+      internalID: -7211789241312812467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_17
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2116
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fd54e74b46effe0800000000000000
+      internalID: -1153373728184868978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_18
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 2107
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7741c4149c7e26dd0800000000000000
+      internalID: -2494176392039885705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2107
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304a33ceadb760810800000000000000
+      internalID: 1731207286966428675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_20
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2116
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264674601bf759040800000000000000
+      internalID: 4653766188248556642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_21
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2048
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6795611a9158640800000000000000
+      internalID: 5081495934212863699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_22
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 2076
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f98db5913659a0e0800000000000000
+      internalID: -2258178967183980043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_23
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 2076
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f3cd9cd44a033f0800000000000000
+      internalID: -923057269604860114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_24
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 2090
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc7b7e24e190e440800000000000000
+      internalID: 4963127198580702389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_25
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2046
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68865c12608df6ab0800000000000000
+      internalID: -5012550339392083834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_26
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2046
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5deee27c7264bc0b0800000000000000
+      internalID: -5707390966102561067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_27
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 2055
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4277db8d0bea4a560800000000000000
+      internalID: 7324170968585041700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_28
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1860
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcad4a9ee9d20a4a0800000000000000
+      internalID: -6584212494667687217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_29
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1886
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4684772a8e3d6e750800000000000000
+      internalID: 6333982922054781028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_30
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1897
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d7016cdcc7416f0800000000000000
+      internalID: -714809217611956852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_31
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1906
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5884e1b175d8cf20800000000000000
+      internalID: 3443236599417309277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_32
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1819
+        width: 141
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da682f05d6190470800000000000000
+      internalID: 8361239287528188631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_33
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1716
+        width: 183
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab3f95ec8365c7a0800000000000000
+      internalID: -6357565842164597849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_34
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1716
+        width: 251
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b2b33eb07599e40800000000000000
+      internalID: 5663653714963671892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_35
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1716
+        width: 251
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3edfc5875527310800000000000000
+      internalID: 1401276409510224890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_36
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1855
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f5b9d5124cc7880800000000000000
+      internalID: -8611792739855802497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_37
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1791
+        width: 117
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d6461cf4ab83cd0800000000000000
+      internalID: -2578105934959842020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_38
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1766
+        width: 106
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc96141e22322230800000000000000
+      internalID: 3612505024591469756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_39
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1879
+        width: 58
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6468a225ae69bf920800000000000000
+      internalID: 3025177507854452294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_40
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 1716
+        width: 173
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00ef9d1ad5354680800000000000000
+      internalID: -8771545488318013430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_41
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1607
+        width: 197
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42c588ab74ddf070800000000000000
+      internalID: 8141897328929129037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_42
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1630
+        width: 76
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca8a8a56d08b65a0800000000000000
+      internalID: -6526981576813016374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_43
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1566
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb1c72167da6b3b0800000000000000
+      internalID: -5497015572531242021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_44
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1536
+        width: 98
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107d4791f59a80fc0800000000000000
+      internalID: -3528384082130708735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_45
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1056
+        width: 218
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468a3357acb0ba8e0800000000000000
+      internalID: -1681237071715129244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_46
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1056
+        width: 448
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe7d824fe8e517f0800000000000000
+      internalID: -642351257519030544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_47
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1056
+        width: 218
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe685b125b7499f40800000000000000
+      internalID: 5735694443713234671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WIP Icons_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1361
+        height: 878
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce406602b2938d10800000000000000
+      internalID: 2126704742357814976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WIP Icons_0: 2049139439321438920
+      WIP Icons_1: -1515931380082931008
+      WIP Icons_10: -207293231278734387
+      WIP Icons_11: 6964734072788323864
+      WIP Icons_12: 2193402002557490893
+      WIP Icons_13: 2960635745032602559
+      WIP Icons_14: 9162574354063154892
+      WIP Icons_15: -2507928279567395727
+      WIP Icons_16: -7211789241312812467
+      WIP Icons_17: -1153373728184868978
+      WIP Icons_18: -2494176392039885705
+      WIP Icons_19: 1731207286966428675
+      WIP Icons_2: -7882148682529903490
+      WIP Icons_20: 4653766188248556642
+      WIP Icons_21: 5081495934212863699
+      WIP Icons_22: -2258178967183980043
+      WIP Icons_23: -923057269604860114
+      WIP Icons_24: 4963127198580702389
+      WIP Icons_25: -5012550339392083834
+      WIP Icons_26: -5707390966102561067
+      WIP Icons_27: 7324170968585041700
+      WIP Icons_28: -6584212494667687217
+      WIP Icons_29: 6333982922054781028
+      WIP Icons_3: -4388826531872623197
+      WIP Icons_30: -714809217611956852
+      WIP Icons_31: 3443236599417309277
+      WIP Icons_32: 8361239287528188631
+      WIP Icons_33: -6357565842164597849
+      WIP Icons_34: 5663653714963671892
+      WIP Icons_35: 1401276409510224890
+      WIP Icons_36: -8611792739855802497
+      WIP Icons_37: -2578105934959842020
+      WIP Icons_38: 3612505024591469756
+      WIP Icons_39: 3025177507854452294
+      WIP Icons_4: 115263304662079428
+      WIP Icons_40: -8771545488318013430
+      WIP Icons_41: 8141897328929129037
+      WIP Icons_42: -6526981576813016374
+      WIP Icons_43: -5497015572531242021
+      WIP Icons_44: -3528384082130708735
+      WIP Icons_45: -1681237071715129244
+      WIP Icons_46: -642351257519030544
+      WIP Icons_47: 5735694443713234671
+      WIP Icons_48: 2126704742357814976
+      WIP Icons_5: 3182939544964421782
+      WIP Icons_6: -7408645539227910943
+      WIP Icons_7: 319276779585854855
+      WIP Icons_8: 291399048829145822
+      WIP Icons_9: 67497154198649352
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
