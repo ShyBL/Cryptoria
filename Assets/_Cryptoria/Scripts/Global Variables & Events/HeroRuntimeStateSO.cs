@@ -31,9 +31,7 @@ public class HeroRuntimeStateSO : ScriptableObject
     [SerializeField] private IntVariableSO _mana;
 
     // ── Read-only accessors ───────────────────────────────────────────
-
-    public CardData HeroDefinition => _heroDefinition;
-
+    
     public int CurrentHealth
     {
         get => _health != null ? _health.currentValue : 0;

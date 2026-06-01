@@ -1,5 +1,7 @@
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.EventSystems;
+using UnityEngine.Serialization;
 
 // ──────────────────────────────────────────────────────────────────────────────
 //  CardDragHandler.cs  (SO Architecture rebuild)
@@ -21,7 +23,8 @@ public class CardDragHandler : MonoBehaviour, IBeginDragHandler, IDragHandler, I
     private RectTransform _rectTransform;
     private CanvasGroup   _canvasGroup;
     private Canvas        _canvas;
-
+    public UnityEvent OnDragEvent;
+    public UnityEvent OnDropEvent;
     // ── State ─────────────────────────────────────────────────────────
     private Vector2 _originalPosition;
 
@@ -48,6 +51,7 @@ public class CardDragHandler : MonoBehaviour, IBeginDragHandler, IDragHandler, I
         _originalPosition           = _rectTransform.anchoredPosition;
         _canvasGroup.alpha           = 0.6f;
         _canvasGroup.blocksRaycasts  = false; // Let the pointer hit DropZones beneath the card
+        OnDragEvent.Invoke();
     }
 
     public void OnDrag(PointerEventData eventData)
@@ -67,12 +71,15 @@ public class CardDragHandler : MonoBehaviour, IBeginDragHandler, IDragHandler, I
 
         GameObject hit      = eventData.pointerCurrentRaycast.gameObject;
         DropZone   dropZone = null;
-
+        OnDropEvent.Invoke();
         if (hit != null)
             hit.TryGetComponent(out dropZone);
 
         if (dropZone != null)
+        {
             dropZone.OnDrop(eventData);
+            
+        }
         else
         {
             _rectTransform.anchoredPosition = _originalPosition;

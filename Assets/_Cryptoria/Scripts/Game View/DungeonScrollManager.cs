@@ -225,7 +225,7 @@ public class DungeonScrollManager : MonoBehaviour
 
         // Simultaneous damage exchange (GDD §2.4)
         _heroState.TakeDamage(enemyState.Data.damage);
-        enemyState.TakeDamage(_heroState.HeroDefinition.damage);
+        enemyState.TakeDamage(_heroState.Damage);
 
         // Gravekeeper rule (GDD §4.3) — survivesOverkill: enemy survives at 1 HP
         if (enemyState.Data.survivesOverkill && enemyState.CurrentHealth <= 0)
@@ -240,7 +240,7 @@ public class DungeonScrollManager : MonoBehaviour
 
         target.RefreshHealthDisplay();
 
-        Debug.Log($"[DungeonScrollManager] Hero dealt {_heroState.HeroDefinition.damage} dmg | " +
+        Debug.Log($"[DungeonScrollManager] Hero dealt {_heroState.Damage} dmg | " +
                   $"Enemy HP: {enemyState.CurrentHealth}/{enemyState.Data.maxHealth} | " +
                   $"Enemy dealt {enemyState.Data.damage} dmg | " +
                   $"Hero HP: {_heroState.CurrentHealth}/{_heroState.MaxHealth}");
