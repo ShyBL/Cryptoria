@@ -1288,7 +1288,7 @@ MonoBehaviour:
       Data2: 1189603497
       Data3: -1068622704
       Data4: -340891310
-    Path: event:/Card Pick-up
+    Path: event:/Card Pick-up SFX
   Event: 
   EventPlayTrigger: 0
   EventStopTrigger: 0
@@ -1298,8 +1298,8 @@ MonoBehaviour:
   NonRigidbodyVelocity: 0
   Params: []
   OverrideAttenuation: 0
-  OverrideMinDistance: -1
-  OverrideMaxDistance: -1
+  OverrideMinDistance: 1
+  OverrideMaxDistance: 20
 --- !u!1 &5905205471606393522
 GameObject:
   m_ObjectHideFlags: 0

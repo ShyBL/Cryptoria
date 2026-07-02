@@ -685,6 +685,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f85b98ae85cc4904888c6d75fced7f20, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  OnDragEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  OnDropEvent:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!114 &858147187248076645
 MonoBehaviour:
   m_ObjectHideFlags: 0

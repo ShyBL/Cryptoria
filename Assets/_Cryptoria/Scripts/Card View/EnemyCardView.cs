@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using TMPro;
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.UI;
 
 /// <summary>
@@ -19,7 +20,8 @@ public class EnemyCardView : MonoBehaviour
     [SerializeField] private Image           _cardArtwork;
     [SerializeField] private GameObject      _cardMesh;
     [SerializeField] private ParticleSystem  _destroyParticle;
-
+    public UnityEvent OnDestroy;
+    
     // ── Runtime state exposed to managers ────────────────────────────
     public CardRuntimeState RuntimeState { get; private set; }
 
@@ -65,8 +67,9 @@ public class EnemyCardView : MonoBehaviour
     /// </summary>
     public IEnumerator PlayDestroyAnimation()
     {
-        if (_cardMesh != null)        _cardMesh.SetActive(true);
-        if (_destroyParticle != null) _destroyParticle.Play();
+        //if (_cardMesh != null)        _cardMesh.SetActive(true);
+        //if (_destroyParticle != null) _destroyParticle.Play();
+        OnDestroy.Invoke();
         yield return new WaitForSeconds(0.5f);
     }
 

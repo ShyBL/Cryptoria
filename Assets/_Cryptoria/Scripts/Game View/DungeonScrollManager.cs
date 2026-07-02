@@ -223,23 +223,14 @@ public class DungeonScrollManager : MonoBehaviour
     {
         CardRuntimeState enemyState = target.RuntimeState;
 
-        // Simultaneous damage exchange (GDD §2.4)
+        // Simultaneous damage exchange
         _heroState.TakeDamage(enemyState.Data.damage);
         enemyState.TakeDamage(_heroState.Damage);
-
-        // Gravekeeper rule (GDD §4.3) — survivesOverkill: enemy survives at 1 HP
-        if (enemyState.Data.survivesOverkill && enemyState.CurrentHealth <= 0)
-        {
-            enemyState.CurrentHealth = 1;
-            Debug.Log($"[DungeonScrollManager] {enemyState.Data.cardName} survives overkill at 1 HP.");
-        }
-
+        
         // Broadcast stat changes — UI observes IntVariableSO directly
         _channel.Raise(GameTopic.Hero_HealthChanged, _heroState.CurrentHealth);
         _channel.Raise(GameTopic.Hero_ShieldChanged, _heroState.CurrentShield);
-
-        target.RefreshHealthDisplay();
-
+        
         Debug.Log($"[DungeonScrollManager] Hero dealt {_heroState.Damage} dmg | " +
                   $"Enemy HP: {enemyState.CurrentHealth}/{enemyState.Data.maxHealth} | " +
                   $"Enemy dealt {enemyState.Data.damage} dmg | " +
